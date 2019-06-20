@@ -1,3 +1,6 @@
+# 本仓库是copy[transferee](https://github.com/Hitomis/transferee)的项目，做了稍微的修改，如有侵权，请告知，删除仓库
+
+
 # Transferee
 transferee 可以帮助你完成从缩略图到原图的无缝过渡转变，功能体系仿照并涵盖 ios 版本的 QQ、微信朋友圈、新浪微博的图片浏览功能。
 
